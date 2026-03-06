@@ -18,7 +18,7 @@ This project focuses on applying data analytics techniques to the sales domain. 
 3. Share the project with others who might benefit from it.
 
 
-##Glimpses of the Project
+## Glimpses of the Project
 <img width="1023" height="582" alt="image" src="https://github.com/user-attachments/assets/a124e2e2-a271-4772-8cf9-5c78f216c79a" />
 <img width="1227" height="694" alt="image" src="https://github.com/user-attachments/assets/94003c23-ff5e-4b5d-9cc3-89804af619a4" />
 
